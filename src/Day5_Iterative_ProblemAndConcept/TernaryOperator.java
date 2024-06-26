@@ -1,4 +1,4 @@
-package Day5_Iterative_Problem_Continued;
+package Day5_Iterative_ProblemAndConcept;
 
 public class TernaryOperator
 {

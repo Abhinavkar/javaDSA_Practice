@@ -1,4 +1,4 @@
-package Day5_Iterative_Problem_Continued;
+package Day5_Iterative_ProblemAndConcept;
 
 public class ContinueStatement {
     public static void main(String[] args) {
