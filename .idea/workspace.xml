@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d958e9ca-74b0-4a73-bf26-f3c01731799b" name="Changes" comment="Java Pratice Session 1">
-      <change afterPath="$PROJECT_DIR$/src/Day4_Iterative/Reverse4DigitNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day4_Iterative/IterativeStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4_Iterative/IterativeStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day4_Iterative/Reverse4DigitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4_Iterative/Reverse_Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,24 +50,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.IterativeStatement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumOfNNaturalNumber.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.IterativeStatement.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Reverse4DigitNumber.executor": "Run",
+    "Application.sumOfNNaturalNumber.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Reverse4DigitNumber">
+}]]></component>
+  <component name="RunManager" selected="Application.Reverse_Number">
     <configuration name="IterativeStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day4_Iterative.IterativeStatement" />
       <module name="JavaPractice" />
@@ -95,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Reverse_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4_Iterative.Reverse_Number" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day4_Iterative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sumOfNNaturalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day4_Iterative.sumOfNNaturalNumber" />
       <module name="JavaPractice" />
@@ -110,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse_Number" />
         <item itemvalue="Application.Reverse4DigitNumber" />
         <item itemvalue="Application.sumOfNNaturalNumber" />
         <item itemvalue="Application.IterativeStatement" />
@@ -133,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719298900980</updated>
       <workItem from="1719298902259" duration="3967000" />
-      <workItem from="1719491630143" duration="273000" />
+      <workItem from="1719491630143" duration="470000" />
     </task>
     <task id="LOCAL-00001" summary="Java Pratice Session 1">
       <option name="closed" value="true" />
