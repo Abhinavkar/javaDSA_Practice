@@ -13,9 +13,10 @@ public class pyramid {
             for(int star1 = 0;star1<star;star1++ ){
                 System.out.print( "*" );
             }
+            System.out.println();
             star+=2;
             space--;
-            System.out.println();
+
         }
     }
 }

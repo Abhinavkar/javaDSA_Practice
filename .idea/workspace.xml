@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d958e9ca-74b0-4a73-bf26-f3c01731799b" name="Changes" comment="Java Pratice Session 1">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/src/Day6_Pattern_Problem/pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6_Pattern_Problem/pyramid.java" afterDir="false" />
+=======
       <change afterPath="$PROJECT_DIR$/src/Day6_Pattern_Problem/pyramid.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Day6_Pattern_Problem/rightAngleTriangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Day6_Pattern_Problem/rightAngleTriangleInverted.java" afterDir="false" />
@@ -12,6 +15,7 @@
       <change beforePath="$PROJECT_DIR$/src/Day5_Iterative_Problem_Continued/ContinueStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5_Iterative_ProblemAndConcept/ContinueStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day5_Iterative_Problem_Continued/FibonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5_Iterative_ProblemAndConcept/FibonacciNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day5_Iterative_Problem_Continued/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5_Iterative_ProblemAndConcept/TernaryOperator.java" afterDir="false" />
+>>>>>>> 339713b07dd2124e4ea2ff12c5c0a7ba732e7691
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +178,11 @@
       <option name="presentableId" value="Default" />
       <updated>1719298900980</updated>
       <workItem from="1719298902259" duration="3967000" />
+<<<<<<< HEAD
+      <workItem from="1719491630143" duration="7391000" />
+=======
       <workItem from="1719491630143" duration="7223000" />
+>>>>>>> 339713b07dd2124e4ea2ff12c5c0a7ba732e7691
     </task>
     <task id="LOCAL-00001" summary="Java Pratice Session 1">
       <option name="closed" value="true" />
