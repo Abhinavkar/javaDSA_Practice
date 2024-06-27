@@ -9,8 +9,6 @@ public class Reverse_Number {
             int rem=n%10;
             n=n/10;
             reversedNumber=reversedNumber*10+rem;
-
-
         }
         System.out.println(reversedNumber);
     }

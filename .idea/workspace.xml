@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d958e9ca-74b0-4a73-bf26-f3c01731799b" name="Changes" comment="Java Pratice Session 1">
+      <change afterPath="$PROJECT_DIR$/src/Day4_Iterative/PrimeNo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day4_Iterative/Reverse4DigitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4_Iterative/Reverse_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day4_Iterative/IterativeStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4_Iterative/IterativeStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day4_Iterative/Reverse_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4_Iterative/Reverse_Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,9 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.IterativeStatement.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PrimeNo.executor": "Run",
     "Application.Reverse4DigitNumber.executor": "Run",
+    "Application.Reverse_Number.executor": "Run",
     "Application.sumOfNNaturalNumber.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -68,9 +72,22 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Reverse_Number">
+  <component name="RunManager" selected="Application.PrimeNo">
     <configuration name="IterativeStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day4_Iterative.IterativeStatement" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day4_Iterative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4_Iterative.PrimeNo" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -123,10 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNo" />
+        <item itemvalue="Application.IterativeStatement" />
         <item itemvalue="Application.Reverse_Number" />
         <item itemvalue="Application.Reverse4DigitNumber" />
         <item itemvalue="Application.sumOfNNaturalNumber" />
-        <item itemvalue="Application.IterativeStatement" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +165,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719298900980</updated>
       <workItem from="1719298902259" duration="3967000" />
-      <workItem from="1719491630143" duration="470000" />
+      <workItem from="1719491630143" duration="1338000" />
     </task>
     <task id="LOCAL-00001" summary="Java Pratice Session 1">
       <option name="closed" value="true" />
