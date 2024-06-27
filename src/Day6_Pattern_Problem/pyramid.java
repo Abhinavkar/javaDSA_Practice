@@ -16,6 +16,7 @@ public class pyramid {
             System.out.println();
             star+=2;
             space--;
+
         }
     }
 }
