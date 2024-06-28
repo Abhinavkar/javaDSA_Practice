@@ -7,7 +7,7 @@ public class arrowShape {
         int stars =1 ;
         for (int row =1 ; row<=rows;row++){
             for (int star=1 ; star<=stars;star++){
-                System.out.print("*");
+                System.out.print(star);
             }
             System.out.println();
             if (row<=rows/2){
